@@ -59,8 +59,8 @@ The dashboard provides analysis of:
 
 | File                                             | Description                       |
 | ------------------------------------------------ | --------------------------------- |
-| `Data Professional Survey Power BI Project.pbix` | Power BI dashboard and data model |
-| `Data Professional Survey.xlsx`                  | Source dataset                    |
+| `Data_Professional_Survey_Power_BI.pbix` | Power BI dashboard and data model |
+| `Data_Professional_Survey.xlsx`                  | Source dataset                    |
 | `Screenshots/`                                   | Dashboard screenshots             |
 
 ## How to Use
